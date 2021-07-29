@@ -1,0 +1,9 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 03L\Ejemplo Laboratorio 03L\bin\Debug\Ejemplo Laboratorio 03L.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 03L\Ejemplo Laboratorio 03L\bin\Debug\Ejemplo Laboratorio 03L.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 03L\Ejemplo Laboratorio 03L\bin\Debug\Ejemplo Laboratorio 03L.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 03L\Ejemplo Laboratorio 03L\obj\Debug\Ejemplo Laboratorio 03L.csprojResolveAssemblyReference.cache
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 03L\Ejemplo Laboratorio 03L\obj\Debug\Ejemplo_Laboratorio_03L.ejemploFormulario.resources
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 03L\Ejemplo Laboratorio 03L\obj\Debug\Ejemplo_Laboratorio_03L.Properties.Resources.resources
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 03L\Ejemplo Laboratorio 03L\obj\Debug\Ejemplo Laboratorio 03L.csproj.GenerateResource.Cache
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 03L\Ejemplo Laboratorio 03L\obj\Debug\Ejemplo Laboratorio 03L.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Laboratorio 03L\Ejemplo Laboratorio 03L\obj\Debug\Ejemplo Laboratorio 03L.pdb
